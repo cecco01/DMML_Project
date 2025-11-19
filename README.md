@@ -29,7 +29,7 @@ Preprocessing & Feature Engineering
 
 Tested models
 
-We evaluated multiple classifiers, including:
+I evaluated multiple classifiers, including:
 
     - Random Forest
     - Logistic Regression

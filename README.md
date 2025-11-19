@@ -1,4 +1,3 @@
-# DMML_Project
 # DMML_Project Overview
 
 This repository focuses on forecasting hotel booking cancellations through supervised machine learning. Leveraging historical reservation records, the solution helps hotels anticipate cancellations, improve revenue management, and streamline operations.
